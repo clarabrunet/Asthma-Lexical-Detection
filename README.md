@@ -55,12 +55,12 @@ Asthma-Lexical-Detection/
 
 ```bash
 python -m venv .venv
-# Windows: .venv\Scripts\activate   |   Linux/macOS: source .venv/bin/activate
+
 pip install -e ".[dev]"
-python -m spacy download es_core_news_sm   # if not pulled in automatically
+
 ```
 
 ## Data
 
-The clinical data used in the thesis are **confidential** and are **not**
-included 
+The clinical data used in the thesis are confidential and are not
+included.
