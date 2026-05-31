@@ -6,9 +6,6 @@ detection.
 
 ---
 
-
-(Strategy 2, *Semantic-Modeling*).
-
 ## Method
 
 The pipeline runs five interpretable stages and is evaluated with patient-level
